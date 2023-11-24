@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 ## Getting Started
-![alt text](https://github.com/Mostafa-samra/tune/blob/main/assets/ui.png?raw=true)
+![alt text](https://github.com/Mostafa-samra/tune/blob/master/assets/ui.png)
 
 
 ### Using libaryry :
