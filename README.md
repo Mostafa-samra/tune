@@ -4,6 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
+## Getting Started
+![alt text](https://github.com/Mostafa-samra/tune/blob/main/assets/ui.png?raw=true)
+
+
+### Using libaryry :
+ audioplayers: ^5.2.1
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
